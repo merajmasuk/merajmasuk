@@ -17,4 +17,4 @@ This is Meraj. It is pronounced the same way the word 'Mirage' is. If you are st
 <!--
 - ⚡ Fun fact: ...
 -->
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merajmasuk&hide=stylus&langs_count=10&theme=nightowl)]()
+[![Languages](https://github-readme-stats-three-nu-99.vercel.app/api/top-langs/?username=merajmasuk&hide=stylus&langs_count=10&theme=nightowl)]()
