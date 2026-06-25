@@ -5,7 +5,7 @@ This is Meraj. It is pronounced the same way the word 'Mirage' is. If you are st
 **merajmasuk/merajmasuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Spring Booot](spring.io)
+- 🔭 I’m currently working on [Spring Boot](spring.io)
 - 🌱 I’m currently learning [Angular](angular.dev)
 <!--
 - 👯 I’m looking to collaborate on ...
